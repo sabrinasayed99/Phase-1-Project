@@ -26,7 +26,8 @@ The risk index was divided into categorical buckets of "High Risk," "Medium Risk
 
 The Risk index was subsetted into categorical buckets of "High Risk", "Medium Risk", and "Low Risk". With a very high postive correlation between average fatalites and Risk values, validates our risk index as a metric for saftey.
 
-<img width="742" alt="Screenshot 2024-09-12 at 1 26 26 PM" src="https://github.com/user-attachments/assets/f380c265-dcc2-414d-9393-86d0c89e7578">
+<img width="847" alt="Screenshot 2024-09-12 at 5 14 27 PM" src="https://github.com/user-attachments/assets/de86cfde-51b2-4f0c-97ab-14f9df6cea37">
+
 
 Utilizing a heat map, S.J. Corporation is able to narrow their findings to the makes and models of aircraft that would be suitable for the company. From this list of highly efficient and safe aircraft, the board may choose the aircraft that upholds the company's expectations.
 
@@ -39,11 +40,11 @@ Utilizing a heat map, S.J. Corporation is able to narrow their findings to the m
 
 The analysis leads to three recommendations for the make and model of the aircraft S.J. Corporation will be adding to the fleet. These recommendations come from the list of low-risk aircraft that have an average risk value of less than 0.05, two engines, and a history with more than a 0.6 average uninjured rate.
 
-    Cessna 208: 
+    Cessna 206: 
                 Risk index < .05
                 Unijured Rate > .60
                 Two Engines
-    Cessna 402: 
+    Cessna 208: 
                 Risk index < .05
                 Unijured Rate > .60
                 Two Engines
@@ -51,6 +52,22 @@ The analysis leads to three recommendations for the make and model of the aircra
                 Risk index < .05
                 Unijured Rate > .60
                 Two Engines
+
+
+
+
+## Directory
+[Presentation](https://docs.google.com/presentation/d/1Ozf2IYApusxuSufWZ89BW7ldopqlxSKTxPelf5tStxQ/edit?usp=sharing)
+
+[Data Set](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
+
+## Repo Files
+### Cleaned Data Only
+Cleaned Data Only contains our cleaned data frame anlysis began at
+### Data
+Contains our data set, and alternative dataframes that were built from the root set.
+### Exploratory Data Analysis
+Includes exploration of data sets and graphical representations of insights
 
 
     
