@@ -20,18 +20,18 @@ S.J. Corporation is working with a data set from the National Transportation Saf
 
 ## Methods:
 
-This Project uses a filtering process to find sutable aircrafts. The methods used for filtering was based on our proprietary risk index which included inunray and fatility ratio.
+The risk index was divided into categorical buckets of "High Risk," "Medium Risk," and "Low Risk." A very high positive correlation between average fatalities and risk values validates our risk index as a metric for safety.
 
 ## Results:
 
-Reciprocating engines have the lowest average risk index value compared to all other engine types. While turbo engines may be faster and more harmful to the environment, they also show a higher risk value across all subsets. Some columns are incomplete due to a lack of data.
+The Risk index was subsetted into categorical buckets of "High Risk", "Medium Risk", and "Low Risk". With a very high postive correlation between average fatalites and Risk values, validates our risk index as a metric for saftey.
 
 <img width="742" alt="Screenshot 2024-09-12 at 1 26 26 PM" src="https://github.com/user-attachments/assets/f380c265-dcc2-414d-9393-86d0c89e7578">
 
 Utilizing a heat map, S.J. Corporation is able to narrow their findings to the makes and models of aircraft that would be suitable for the company. From this list of highly efficient and safe aircraft, the board may choose the aircraft that upholds the company's expectations.
 
 
-<img width="857" alt="Screenshot 2024-09-12 at 1 14 40 PM" src="https://github.com/user-attachments/assets/f9eddf43-189a-43b8-a14c-9925870c572f">
+<img width="572" alt="Screenshot 2024-09-12 at 4 22 51 PM" src="https://github.com/user-attachments/assets/49eedf3d-7bcb-4143-8852-75b8c9a14cab">
 
 
 
@@ -43,11 +43,11 @@ The analysis leads to three recommendations for the make and model of the aircra
                 Risk index < .05
                 Unijured Rate > .60
                 Two Engines
-    Cessna 182: 
+    Cessna 402: 
                 Risk index < .05
                 Unijured Rate > .60
                 Two Engines
-    Piper Pa-34: 
+    Piper Pa-32: 
                 Risk index < .05
                 Unijured Rate > .60
                 Two Engines
