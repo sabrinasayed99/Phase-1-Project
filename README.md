@@ -62,12 +62,17 @@ The analysis leads to three recommendations for the make and model of the aircra
 [Data Set](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)
 
 ## Repo Files
-### Cleaned Data Only
-Cleaned Data Only contains our cleaned data frame anlysis began at
+### Cleaned Data Only Folder
+Cleaned Data Only contains our cleaned data frame anlysis called "Clean_Data_Finalized.ipynb".
 ### Data
-Contains our data set, and alternative dataframes that were built from the root set.
+Contains our raw data sets, and alternative dataframes that were built from the root set.
 ### Exploratory Data Analysis
-Includes exploration of data sets and graphical representations of insights
+Includes exploration of data sets and graphical representations of insights. The final version is called "Final Aviation EDA.ipynb".
+### Images
+Stores our images of all the graphs we created.
+### Aviation.pdf
+A pdf version of our presentation slides.
+
 
 
     
