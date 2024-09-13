@@ -1,0 +1,64 @@
+New_Index,Make-Model,Risk Value,Engine Type
+2,Beech 35,0.35,Reciprocating
+4,Beech 56TC,0.35,Turbo Prop
+8,Beech 95-A55,0.0,Reciprocating
+13,Beech A23-19,0.35,Reciprocating
+14,Beech A36,0.35,Turbo Prop
+15,Beech A36TC,0.35,Reciprocating
+17,Beech B-19,0.35,Reciprocating
+18,Beech B-60,0.35,Reciprocating
+28,Beech G18S,0.35,Reciprocating
+30,Beech J35,0.35,Turbo Prop
+31,Beech S35,0.35,Reciprocating
+32,Beech V35,0.35,Reciprocating
+33,Beech V35B,0.35,Reciprocating
+34,Cessna 150F,0.35,Reciprocating
+35,Cessna 150K,0.2,Reciprocating
+37,Cessna 170A,0.0,Reciprocating
+39,Cessna 172A,0.35,Reciprocating
+44,Cessna 172RG,0.0,Reciprocating
+51,Cessna 180K,0.35,Reciprocating
+54,Cessna 182C,0.35,Turbo Prop
+55,Cessna 182F,0.2,Reciprocating
+68,Cessna 207A,0.35,Reciprocating
+69,Cessna 208,0.1,Turbo Prop
+73,Cessna 210E,0.35,Reciprocating
+74,Cessna 210N,0.35,Reciprocating
+76,Cessna 310,0.35,Reciprocating
+77,Cessna 310C,0.35,Reciprocating
+78,Cessna 310D,0.35,Reciprocating
+79,Cessna 310K,0.35,Reciprocating
+80,Cessna 310Q,0.35,Reciprocating
+82,Cessna 337,0.35,Reciprocating
+83,Cessna 337D,0.35,Reciprocating
+87,Cessna 401A,0.35,Reciprocating
+88,Cessna 402,0.0,Reciprocating
+90,Cessna 402B,0.35,Reciprocating
+92,Cessna 404,0.1,Reciprocating
+99,Cessna 501,0.35,Reciprocating
+101,Cessna 525A,0.2,Reciprocating
+106,Cessna A188B,0.35,Turbo Prop
+108,Cessna P210R,0.2,Reciprocating
+113,Cessna T207A,0.35,Reciprocating
+119,Cessna TR182,0.35,Reciprocating
+122,Cessna U206,0.0,Reciprocating
+124,Cessna U206F,0.35,Reciprocating
+126,Grumman G-164,0.35,Reciprocating
+128,Grumman G-164B,0.0,Reciprocating
+130,Grumman G164B,0.35,Reciprocating
+137,Piper PA-12,0.2,Reciprocating
+138,Piper PA-18,0.2,Reciprocating
+140,Piper PA-22-160,0.35,Reciprocating
+141,Piper PA-23,0.35,Reciprocating
+144,Piper PA-24-260,0.35,Reciprocating
+145,Piper PA-25,0.35,Reciprocating
+146,Piper PA-25-235,0.0,Reciprocating
+148,Piper PA-28-151,0.35,Reciprocating
+154,Piper PA-28R-201T,0.35,Reciprocating
+160,Piper PA-31T,0.35,Turbo Fan
+165,Piper PA-32-300,0.0,Reciprocating
+171,Piper PA-32RT-300,0.35,Reciprocating
+173,Piper PA-34-200,0.35,Reciprocating
+175,Piper PA-38,0.35,Turbo Prop
+176,Piper PA-38-112,0.35,Reciprocating
+178,Piper PA-60,0.35,Reciprocating
