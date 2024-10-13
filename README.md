@@ -1,6 +1,6 @@
 <img width="788" alt="Screenshot 2024-09-12 at 1 52 46 PM" src="https://github.com/user-attachments/assets/ae6099d0-08d8-404b-9400-f456032cc4ff">
 
-## S.J. Corporation Fleet Adition
+## S.J. Corporation Fleet Addition
 
 #### Author: [Sabriana Sayed](https://github.com/sabrinasayed99), [Jessie Freeelander](https://github.com/Anicca18)
 
