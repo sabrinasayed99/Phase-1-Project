@@ -7,7 +7,7 @@
 
 ## Overview:
 
-The project has utilized a dataset of over 88,000 aviation accident events to create a list of the most effective and safe aircraft. To gauge safety, a risk index was developed, which included a cluster of data utilizing injury and fatality ratios. The Phase 1 Project can be used as a recommendation for the safest and most effective aircraft for S & J Corporation to add to their fleet.
+The project has utilized a dataset of about 88,000 aviation accident events to create a list of the most effective and safe aircraft. To gauge safety, a risk index was developed, which included a cluster of data utilizing injury and fatality ratios. The Phase 1 Project can be used as a recommendation for the safest and most effective aircraft for S & J Corporation to add to their fleet.
 
 ## Business Problem:
 
