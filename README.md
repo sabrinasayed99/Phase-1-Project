@@ -7,29 +7,26 @@
 
 ## Overview:
 
-The project has utilized a dataset of about 88,000 aviation accident events to create a list of the most effective and safe aircraft. To gauge safety, a risk index was developed, which included a cluster of data utilizing injury and fatality ratios. The Phase 1 Project can be used as a recommendation for the safest and most effective aircraft for S & J Corporation to add to their fleet.
+The project has utilized a dataset of about 88,000 aviation accident events to assess the most cost efficient and safe aircrafts for investment. To gauge safety, a risk index was designed, weighing minor injury rates, major injury rates, and fatility rates in the event of an accident with substantial damage. Risk assessment of an aircraft make and model will directly influence investment recommendations, which will undergo futher assessment based on aircraft performance in visually impaired weather conditions, engine types, and number of engines.
 
 ## Business Problem:
 
-S.J. Corporation is undergoing massive expansion within North America, which is creating a governing factor on the outputs of the C-Suite. S.J. Corporation will experience an increase in output and efficiency by choosing to add a private aircraft to the balance sheets. Choosing the right aircraft will provide C-Suite executives with efficiency, comfort, and safety.
+S.J. Corporation is seeking to invest in private aircrafts to serve executive and business purposes. The company is looking to optimize output and efficiency by adding private aircrafts to the balance sheets. The best investment will provide C-Suite executives with efficiency, comfort, and safety.
 
 
 ## Data:
 
-S.J. Corporation is working with a data set from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+The data was sourced directly from the National Transportation Safety Board including aviation accident data from 1962 to 2023 covering civil aviation accidents and selected incidents in the United States and international waters.
 
-## Methods:
-
-The risk index was divided into categorical buckets of "High Risk," "Medium Risk," and "Low Risk." A very high positive correlation between average fatalities and risk values validates our risk index as a metric for safety.
 
 ## Results:
 
-The Risk index was subsetted into categorical buckets of "High Risk", "Medium Risk", and "Low Risk". With a very high postive correlation between average fatalites and Risk values, validates our risk index as a metric for saftey.
+The Risk index was classified into 3 buckets: "High Risk", "Medium Risk", and "Low Risk". A strong postive correlation between average fatalites and Risk values, validates our risk index as our main safety metric.
 
 <img width="847" alt="Screenshot 2024-09-12 at 5 14 27 PM" src="https://github.com/user-attachments/assets/de86cfde-51b2-4f0c-97ab-14f9df6cea37">
 
 
-Utilizing a heat map, S.J. Corporation is able to narrow their findings to the makes and models of aircraft that would be suitable for the company. From this list of highly efficient and safe aircraft, the board may choose the aircraft that upholds the company's expectations.
+Utilizing a heat map, we are able to narrow our findings to the makes and models of aircrafts that meet our standards and business needs. The green boxes highlight the safest aircrafts based on our risk index, from which we will choose our top 3 recommendations to present to the board to put to a final vote.
 
 
 <img width="572" alt="Screenshot 2024-09-12 at 4 22 51 PM" src="https://github.com/user-attachments/assets/49eedf3d-7bcb-4143-8852-75b8c9a14cab">
@@ -38,7 +35,7 @@ Utilizing a heat map, S.J. Corporation is able to narrow their findings to the m
 
 ## Conclusions
 
-The analysis leads to three recommendations for the make and model of the aircraft S.J. Corporation will be adding to the fleet. These recommendations come from the list of low-risk aircraft that have an average risk value of less than 0.05, two engines, and a history with more than a 0.6 average uninjured rate.
+Our final analysis has allowed us to make 3 recommendations of unique make-models for investment. These recommendations come from the list of low-risk aircraft that have an average risk value of less than 0.05, two engines, and a track record of more than a 0.6 average uninjured rate.
 
     Cessna 206: 
                 Risk index < .05
